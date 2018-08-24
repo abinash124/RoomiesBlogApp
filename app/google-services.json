@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "575581199890",
+    "firebase_url": "https://roomiesphotoblog.firebaseio.com",
+    "project_id": "roomiesphotoblog",
+    "storage_bucket": "roomiesphotoblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575581199890:android:ee4204b70ca64567",
+        "android_client_info": {
+          "package_name": "com.example.abinashbhattarai.roomiesphotoblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575581199890-9vkhmu4mgvdk5iqas3t1br1c64rma1p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abinashbhattarai.roomiesphotoblog",
+            "certificate_hash": "1f43bad18c311fb0f63ab7de9234bbba77b880fa"
+          }
+        },
+        {
+          "client_id": "575581199890-73oqp33b53r3fgnj8kjfhn0intp273rc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "575581199890-73oqp33b53r3fgnj8kjfhn0intp273rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MqZUhnnDqRXUatKXdk8sl0c_0XZW2I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575581199890-73oqp33b53r3fgnj8kjfhn0intp273rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
